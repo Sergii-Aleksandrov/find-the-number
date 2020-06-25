@@ -1,0 +1,14 @@
+#table td{
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.right{
+  background: #E9967A;
+  box-shadow: inset 4px 4px 30px white;
+  transition: all 1s ease-out;
+}
